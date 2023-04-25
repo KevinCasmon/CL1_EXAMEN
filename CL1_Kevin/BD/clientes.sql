@@ -1,0 +1,1 @@
+SELECT * FROM bd_cl1_examen.clientes;
